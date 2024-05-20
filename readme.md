@@ -48,7 +48,7 @@ To run the JobSculptor Streamlit application, follow these steps:
 
 ## Project Structure
 
-- `data/`: Contains data files used by the application.
+- `data/`: Contains example data files can be used by the application.
 - `genai/`: Contains the scripts used for generating ai-written cover letter.
 - `gui/`: Contains the Streamlit GUI components.
 - `style/`: Contains styling files.
