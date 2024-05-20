@@ -1,0 +1,19 @@
+Using a professional tone and industry-specific language relevant to the [title] position at [company], write compelling text for the cover letter. Extract qualifications and achievements directly from the provided resume and incorporate them to match the job description.
+
+Job Description:
+[description]
+
+Resume:
+[resume]
+
+Cover Letter:
+Dear Hiring Manager,
+
+{Introduction: Briefly introduce yourself and express enthusiasm for the position, mentioning your years of experience and key skills.}
+
+{Qualifications: Highlight relevant skills and experience, focusing on the key requirements of the job description.}
+
+{Achievements: Identify significant achievements that demonstrate your expertise and align with the job requirements.}
+
+{Closing: Reiterate your interest in the position, express your eagerness to contribute to the company, and thank the hiring manager for considering your application.}
+

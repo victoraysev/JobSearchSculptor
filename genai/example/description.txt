@@ -1,0 +1,67 @@
+As an Engineer you will create and/or modify solutions to complex software problems. This includes coding, testing, debugging, documenting, and maintaining those solutions. You will participate in leading smaller engineering efforts as well as contributing to larger, enterprise-wide initiatives. The Engineering teams are challenged to partner across departments and divisions to achieve the best outcomes for our customers.
+
+
+
+
+As an Engineer on the IT Finance and Actuarial team, you will engage with multiple technologies including Java, SQL, vendor applications, mainframe systems, and data transformations/pipelines. You will work in an agile team focused on enabling the actuaries as they model and forecast multiple sources of data.
+**Designing Solutions**
+
+* Apply technical knowledge to drive outcomes for customers
+* Ability to work and problem solve independently on initiatives that align to the broader software engineering strategy
+* Proficient at designing solutions within core framework of software products within this team
+* Participate in low level design for the product area / within the team.
+
+**Designing Software**
+
+* Use independent, critical thinking to solve complex problems which are significant to the customer.
+* Member of team that can work independently, as well as collaboratively with team, in developing core software for the product that delivers outcomes.
+* Consistent and dependable in delivering core software that delivers outcomes and meets/exceeds the teams expectations for stability, scalability, resilience, etc.
+
+**Learning and Applying New Techniques**
+
+* Seek out opportunities to learn new technologies that improve the product and its lifecycle.
+
+**Collaborating within the Team**
+
+* Participate in team’s collaboration sessions to provide technical expertise to solve a problem/remove technical roadblocks for the team
+* Participate in product planning and implementation. Helps team to understand and decompose work "
+
+**DevOps**
+
+* Participates in the team support rotation and builds knowledge on focus subsystems."
+
+**Coaching Engineers**
+
+* Provide technical expertise and help the team to solve technical/software issues
+* Provide trainings to the junior developers and groom them"
+
+**Recruiting/Building Talent**
+
+* Participate in the interview process or be part of the panel to recruit the right talent to the team
+* Models Thrivent’s leadership competencies – courage, collaboration, and commitment by demonstrating resiliency, working together to make the best decisions, and holding yourself and others accountable.
+* Supports and/or develops an environment in which Thrivent employees and colleagues are focused on continuous improvement, exceptional employee engagement, and an unwavering commitment to our clients. Shapes and/or supports a culture that represents the Thrivent purpose, promise and values, ensuring that Thrivent’s trust and reputation remain strong with its clients.
+* Perform other related duties as required.
+
+**QUALIFICATIONS & SKILLS:**
+
+***Required:***
+
+* Bachelor's degree in Computer Science or other technical field or equivalent work experience
+* 3 to 5 years of Engineering experience
+* Sound knowledge of Software Development Life Cycle (SDLC)
+* Knowledge of industry standard Software Development Life Cycle (SDLC) practices
+* Knowledge of systems design concepts that provide security and stability
+* Deep knowledge of Operating Systems and/or Application Development Platforms
+* Ability to debug code and/or complex log files for troubleshooting and analysis of product defects
+* Sound understanding of application engineering concepts
+* Knowledge/experience with querying databases for data lookup/update
+
+***Preferred:***
+
+* Experience in multiple technologies: mainframe, vendor applications, Java, SQL, and data transformations
+* Financial Services industry and/or Actuarial systems experience
+* Coach / mentor other team members as appropriate
+
+*Thrivent provides Equal Employment Opportunity (EEO) without regard to race, religion, color,* *sex, gender identity, sexual orientation, pregnancy, national origin, age, disability, marital status, citizenship status, military or veteran status, genetic information, or any other status protected by applicable local, state, or federal law. This policy applies to all employees and job applicants.*
+
+*Thrivent is committed to providing reasonable accommodation to individuals with disabilities. If you need a reasonable accommodation, please let us know by sending an email to* *human.resources@thrivent.com* *or call 800-847-4836 and request Human Resources.*

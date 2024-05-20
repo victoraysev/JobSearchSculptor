@@ -1,0 +1,81 @@
+UTKU AYSEV
+Software Engineer with four years’ experience, eager to relocate within the USA.
+(Available for full-time, W-2 employment)
+• Fairfield, IA • utkuaysev@gmail.com • (641) 233-9886 • linkedin.com/in/utkuaysev
+
+PROFESSIONAL EXPERIENCE
+
+Data & Software Engineer 03/2022-08/2023
+
+HEPSIBURADA Istanbul, Turkey
+
+• Managed a real-time clickstream data pipeline on GCP using Java (Spring Boot) microservices and BigQuery,
+accomplishing 30% faster data processing with Kafka.
+
+• Delivered real-time E-commerce data to critical systems like recommendations and ensured more than 99%
+uptime, enabling data-driven decisions with cross-functional teams.
+
+• Optimized GitLab CI/CD for Google Kubernetes Engine (GKE) with Docker and Maven, reducing release
+times by 30%.
+
+• Crafted a Spring Boot internal web app with Hibernate and PostgreSQL, integrating RESTful services and
+writing Junit tests to streamline data format updates from 4 days to 30 minutes.
+
+• Managed high traffic loads, processing around 100 TB of data during peak times optimizing Google
+Compute Engine (GCE) virtual machines for seamless performance.
+
+• Employed Grafana and Prometheus for real-time system performance monitoring for up to 70,000 users per
+second.
+
+Software Engineer 02/2021-03/2022
+
+SEBIT  Ankara, Turkey
+
+• Developed scalable Java microservices (Spring, Maven) for nationwide EdTech system, utilizing diverse
+databases (PostgreSQL, Cassandra, Elasticsearch, Redis), Kafka and Memcached.
+
+• Resolved user accessibility issues by implementing dynamic cluster binding in Elasticsearch.
+
+• Delivered user behavior insights to government stakeholders by analyzing a 13 million user dataset stored in
+PostgreSQL and Cassandra.
+
+• Developed a Java/Spring notification system with PostgreSQL, automating targeted user notifications.
+
+Software Engineer 01/2018-12/2018
+
+COMODO  Ankara, Turkey
+
+• Implemented a Java web app with Spring Boot, PostgreSQL, Hibernate and Docker to automate employee
+performance evaluations, reducing HR workload from weeks to days.
+
+EDUCATION
+
+MAHARISHI INTERNATIONAL UNIVERSITY 2023-Expected 2026
+
+Master of Science in Computer Science (GPA:3.93)                                                                               Fairfield, IA
+
+(In progress via distance education)
+
+TOBB UNIVERSITY OF ECONOMICS AND TECHNOLOGY 2015-2020
+
+Bachelor of Science in Computer Science (GPA:3.17) Ankara, Turkey
+
+PROJECT
+
+Rental Car Application 2023
+
+• Built a rental car application website using Node.js, Express, JavaScript for seamless user interaction.
+
+Real Estate Agency Admin Tool 2022
+
+• Developed a real estate contract tracking system using Python, Flask, SQLite, Javascript reducing agent
+workload by over 30%.
+
+SKILL
+
+• Java (Spring Boot, Spring Cloud, Hibernate, Junit),  Python (Flask), Javascript (NodeJs, Express)
+• Cloud Computing, GCP (BigQuery, GKE, GCE, GCS), AWS (RDS, EC2, DynamoDB, S3)
+• Kafka, PostgreSQL, MYSQL, MongoDB, Cassandra, ElasticSearch, Redis, Memcached
+• RESTFUL Web Services, OOP, Singleton, Spring MVC, Visitor Design Pattern, Software Design
+• Agile, SCRUM, Software Development Lifecycle, Large-Scale Distributed Microservices
+• Prometheus, Grafana, Kubernetes, Docker, Maven, GitLab CI/CD, Eureka Service Discovery

@@ -1,0 +1,166 @@
+C:\Users\uaysev\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\uaysev\PycharmProjects\pythonProject\genai\cover_letter_generator.py
+Using a professional tone and industry-specific language relevant to the  position at Thrivent, write compelling text for the cover letter. Extract qualifications and achievements directly from the provided resume and incorporate them to match the job description.
+
+Job Description:
+As an Engineer you will create and/or modify solutions to complex software problems. This includes coding, testing, debugging, documenting, and maintaining those solutions. You will participate in leading smaller engineering efforts as well as contributing to larger, enterprise-wide initiatives. The Engineering teams are challenged to partner across departments and divisions to achieve the best outcomes for our customers.
+
+
+
+
+As an Engineer on the IT Finance and Actuarial team, you will engage with multiple technologies including Java, SQL, vendor applications, mainframe systems, and data transformations/pipelines. You will work in an agile team focused on enabling the actuaries as they model and forecast multiple sources of data.
+**Designing Solutions**
+
+* Apply technical knowledge to drive outcomes for customers
+* Ability to work and problem solve independently on initiatives that align to the broader software engineering strategy
+* Proficient at designing solutions within core framework of software products within this team
+* Participate in low level design for the product area / within the team.
+
+**Designing Software**
+
+* Use independent, critical thinking to solve complex problems which are significant to the customer.
+* Member of team that can work independently, as well as collaboratively with team, in developing core software for the product that delivers outcomes.
+* Consistent and dependable in delivering core software that delivers outcomes and meets/exceeds the teams expectations for stability, scalability, resilience, etc.
+
+**Learning and Applying New Techniques**
+
+* Seek out opportunities to learn new technologies that improve the product and its lifecycle.
+
+**Collaborating within the Team**
+
+* Participate in teamâ€™s collaboration sessions to provide technical expertise to solve a problem/remove technical roadblocks for the team
+* Participate in product planning and implementation. Helps team to understand and decompose work "
+
+**DevOps**
+
+* Participates in the team support rotation and builds knowledge on focus subsystems."
+
+**Coaching Engineers**
+
+* Provide technical expertise and help the team to solve technical/software issues
+* Provide trainings to the junior developers and groom them"
+
+**Recruiting/Building Talent**
+
+* Participate in the interview process or be part of the panel to recruit the right talent to the team
+* Models Thriventâ€™s leadership competencies â€ courage, collaboration, and commitment by demonstrating resiliency, working together to make the best decisions, and holding yourself and others accountable.
+* Supports and/or develops an environment in which Thrivent employees and colleagues are focused on continuous improvement, exceptional employee engagement, and an unwavering commitment to our clients. Shapes and/or supports a culture that represents the Thrivent purpose, promise and values, ensuring that Thriventâ€™s trust and reputation remain strong with its clients.
+* Perform other related duties as required.
+
+**QUALIFICATIONS & SKILLS:**
+
+***Required:***
+
+* Bachelor's degree in Computer Science or other technical field or equivalent work experience
+* 3 to 5 years of Engineering experience
+* Sound knowledge of Software Development Life Cycle (SDLC)
+* Knowledge of industry standard Software Development Life Cycle (SDLC) practices
+* Knowledge of systems design concepts that provide security and stability
+* Deep knowledge of Operating Systems and/or Application Development Platforms
+* Ability to debug code and/or complex log files for troubleshooting and analysis of product defects
+* Sound understanding of application engineering concepts
+* Knowledge/experience with querying databases for data lookup/update
+
+***Preferred:***
+
+* Experience in multiple technologies: mainframe, vendor applications, Java, SQL, and data transformations
+* Financial Services industry and/or Actuarial systems experience
+* Coach / mentor other team members as appropriate
+
+*Thrivent provides Equal Employment Opportunity (EEO) without regard to race, religion, color,* *sex, gender identity, sexual orientation, pregnancy, national origin, age, disability, marital status, citizenship status, military or veteran status, genetic information, or any other status protected by applicable local, state, or federal law. This policy applies to all employees and job applicants.*
+
+*Thrivent is committed to providing reasonable accommodation to individuals with disabilities. If you need a reasonable accommodation, please let us know by sending an email to* *human.resources@thrivent.com* *or call 800-847-4836 and request Human Resources.*
+
+
+Resume:
+UTKU AYSEV
+Software Engineer with four yearsâ€™ experience, eager to relocate within the USA.
+(Available for full-time, W-2 employment)
+â€¢ Fairfield, IA â€¢ utkuaysev@gmail.com â€¢ (641) 233-9886 â€¢ linkedin.com/in/utkuaysev
+
+PROFESSIONAL EXPERIENCE
+
+Data & Software Engineer 03/2022-08/2023
+
+HEPSIBURADA Istanbul, Turkey
+
+â€¢ Managed a real-time clickstream data pipeline on GCP using Java (Spring Boot) microservices and BigQuery,
+accomplishing 30% faster data processing with Kafka.
+
+â€¢ Delivered real-time E-commerce data to critical systems like recommendations and ensured more than 99%
+uptime, enabling data-driven decisions with cross-functional teams.
+
+â€¢ Optimized GitLab CI/CD for Google Kubernetes Engine (GKE) with Docker and Maven, reducing release
+times by 30%.
+
+â€¢ Crafted a Spring Boot internal web app with Hibernate and PostgreSQL, integrating RESTful services and
+writing Junit tests to streamline data format updates from 4 days to 30 minutes.
+
+â€¢ Managed high traffic loads, processing around 100 TB of data during peak times optimizing Google
+Compute Engine (GCE) virtual machines for seamless performance.
+
+â€¢ Employed Grafana and Prometheus for real-time system performance monitoring for up to 70,000 users per
+second.
+
+Software Engineer 02/2021-03/2022
+
+SEBIT  Ankara, Turkey
+
+â€¢ Developed scalable Java microservices (Spring, Maven) for nationwide EdTech system, utilizing diverse
+databases (PostgreSQL, Cassandra, Elasticsearch, Redis), Kafka and Memcached.
+
+â€¢ Resolved user accessibility issues by implementing dynamic cluster binding in Elasticsearch.
+
+â€¢ Delivered user behavior insights to government stakeholders by analyzing a 13 million user dataset stored in
+PostgreSQL and Cassandra.
+
+â€¢ Developed a Java/Spring notification system with PostgreSQL, automating targeted user notifications.
+
+Software Engineer 01/2018-12/2018
+
+COMODO  Ankara, Turkey
+
+â€¢ Implemented a Java web app with Spring Boot, PostgreSQL, Hibernate and Docker to automate employee
+performance evaluations, reducing HR workload from weeks to days.
+
+EDUCATION
+
+MAHARISHI INTERNATIONAL UNIVERSITY 2023-Expected 2026
+
+Master of Science in Computer Science (GPA:3.93)                                                                               Fairfield, IA
+
+(In progress via distance education)
+
+TOBB UNIVERSITY OF ECONOMICS AND TECHNOLOGY 2015-2020
+
+Bachelor of Science in Computer Science (GPA:3.17) Ankara, Turkey
+
+PROJECT
+
+Rental Car Application 2023
+
+â€¢ Built a rental car application website using Node.js, Express, JavaScript for seamless user interaction.
+
+Real Estate Agency Admin Tool 2022
+
+â€¢ Developed a real estate contract tracking system using Python, Flask, SQLite, Javascript reducing agent
+workload by over 30%.
+
+SKILL
+
+â€¢ Java (Spring Boot, Spring Cloud, Hibernate, Junit),  Python (Flask), Javascript (NodeJs, Express)
+â€¢ Cloud Computing, GCP (BigQuery, GKE, GCE, GCS), AWS (RDS, EC2, DynamoDB, S3)
+â€¢ Kafka, PostgreSQL, MYSQL, MongoDB, Cassandra, ElasticSearch, Redis, Memcached
+â€¢ RESTFUL Web Services, OOP, Singleton, Spring MVC, Visitor Design Pattern, Software Design
+â€¢ Agile, SCRUM, Software Development Lifecycle, Large-Scale Distributed Microservices
+â€¢ Prometheus, Grafana, Kubernetes, Docker, Maven, GitLab CI/CD, Eureka Service Discovery
+
+Cover Letter:
+Dear Hiring Manager,
+
+{Introduction: Briefly introduce yourself and express enthusiasm for the position, mentioning your years of experience and key skills.}
+
+{Qualifications: Highlight relevant skills and experience, focusing on the key requirements of the job description.}
+
+{Achievements: Identify significant achievements that demonstrate your expertise and align with the job requirements.}
+
+{Closing: Reiterate your interest in the position, express your eagerness to contribute to the company, and thank the hiring manager for considering your application.}

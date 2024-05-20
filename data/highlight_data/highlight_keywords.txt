@@ -1,0 +1,152 @@
+Object Oriented Programming (OOP)
+Cloud Computing
+Efficiency Improvement
+CI/CD
+Containers & Container Orchestration
+SOLID Principles
+System Design and Architecture
+Apache Kafka
+Google Cloud Platform (GCP)
+Docker
+Kubernetes
+Git
+GitHub
+Gitlab
+Memcached
+Redis
+Apache Maven
+Spring
+Spring Boot
+Express
+Hibernate
+Junit
+Flask
+Django
+Java
+Python
+BigQuery
+PostgreSQL
+Elasticsearch
+MVC
+Visitor
+Singleton
+Grafana
+Prometheus
+Apache Druid
+Apache Tomcat
+Agile
+SCRUM
+Hadoop
+Hive
+Cassandra
+Flume
+Sqoop
+Spark
+MySQL
+Druid
+Spacy
+Neo4j
+HTML
+Javascript
+Jquery
+Bootstrap
+Kafka
+Mongo
+MongoDb
+JWT
+JSON Web Tokens
+SQLite
+SVN
+Nginx
+Unit testing
+Problem-Solving
+Critical Thinking
+Communication
+Teamwork
+Time Management
+Adaptability
+Attention to Detail
+Learning Agility
+Leadership
+Empathy
+Customer Focus
+Continuous Improvement
+Concurrency
+Data Structures
+Algorithms
+Design Patterns
+Object-Oriented Programming (OOP)
+Functional Programming
+Microservices Architecture
+Containerization
+Orchestration
+API Gateway
+Programming Interface (API)
+API
+Load Balancing
+Caching Strategies
+Security Best Practices
+Database Design
+Performance Optimization
+Code Review
+Documentation
+Debugging
+Error Handling
+Agile Methodologies
+Scrum
+Kanban
+Code Versioning
+SQL
+Linux
+Relational Databases
+system design
+application development
+Spring MVC
+RESTful Web Services
+Software Development Life Cycle
+OOP
+GCP
+Scalable SystemsGUI application solutions
+troubleshooting
+software design
+object-oriented programming
+scalable and reliable systems
+self-motivated
+self-motivated
+distributed systems
+Multi-threading
+real-time web applications
+messaging systems
+AJAX
+CSS
+problem solving
+n-tier systems
+Apache Tomcat
+product design
+Intellij
+systems design
+json
+Confluence
+Hbase
+Big Table
+Eclipse
+highly-available systems
+Large-scale microservices
+Object oriented analysis and design
+RDBMS
+Maven
+large datasets
+AWS
+Debugging
+event driven architecture
+microservice-based architecture
+highly scalable and reliable applications
+Quality Focused
+EC2
+RDS
+team-oriented
+event streaming platform
+multithreading
+Lambda
+detail-oriented
+S3
