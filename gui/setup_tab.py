@@ -14,12 +14,23 @@ def setup_tab():
     hours_old = st.number_input("Hours Old", 0, 100, 24)
     offset = st.number_input("Offset", 0, 1000, 0)
 
-    st.sidebar.subheader("Filters(Optional)")
-    resume_files_folder = st.sidebar.text_input("Enter the directory path of resume folders")
+    st.sidebar.subheader("Filters and Resume Selection (Optional)")
     highlight_keywords_file = st.sidebar.file_uploader("Upload Highlight Keywords for Descriptions", type="txt")
     exclude_keywords_file = st.sidebar.file_uploader("Upload Exclude Keywords for Descriptions", type="txt")
     exclude_titles_file = st.sidebar.file_uploader("Upload Exclude Keywords for Titles", type="txt")
     exclude_companies_file = st.sidebar.file_uploader("Upload Exclude Keywords for Companies", type="txt")
+
+    resume_names = []
+    resume_data = {}
+    x = 1
+    while True:
+        uploaded_file = st.sidebar.file_uploader("Choose your resume file", type=["pdf"], key=x)
+        x = x + 1
+        if uploaded_file is not None:
+            resume_names.append(uploaded_file.name)
+            resume_data[uploaded_file.name] = pdf_to_text(uploaded_file)
+        else:
+            break
 
     if st.button("Proceed to Scraper", disabled=not st.session_state["setup_tab"]):
         st.session_state["setup_tab"] = False
@@ -33,20 +44,6 @@ def setup_tab():
             st.session_state["exclude_titles"] = exclude_titles_file.read().decode("utf-8").splitlines()
         if exclude_companies_file:
             st.session_state["exclude_companies"] = exclude_companies_file.read().decode("utf-8").splitlines()
-
-        # setting up resumes
-        folder_pdf_datas = get_first_pdf_file_paths(resume_files_folder)
-        resume_names = []
-        resume_data = {}
-        for folder_pdf_data in folder_pdf_datas:
-            resume_name = folder_pdf_data[0]
-            path = folder_pdf_data[1]
-            resume_names.append(resume_name)
-            if path:
-                text = pdf_to_text(path)
-                resume_data[resume_name] = text
-            else:
-                resume_data[resume_name] = ""
         if len(resume_names) > 0:
             st.session_state["resume_data"] = resume_data
             st.session_state["resume_names"] = resume_names
