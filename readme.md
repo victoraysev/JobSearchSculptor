@@ -70,6 +70,10 @@ You are welcome to contribute! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+### Libraries Used In This Application 📚
+- Scraper: https://github.com/Bunsly/JobSpy
+- Pdf To Text: https://github.com/jsvine/pdfplumber
+
 ## Contact 📧
 
 For questions or further assistance, please contact utkuaysev@gmail.com.
