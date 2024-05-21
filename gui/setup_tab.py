@@ -10,7 +10,7 @@ def setup_tab():
 
     st.subheader("Search Parameters")
     search_term = st.text_input("Search Term", "Software Engineer Java")
-    results_wanted = st.number_input("Results Wanted", 10, 1000, 100)
+    results_wanted = st.number_input("Number of jobs to filter", 10, 1000, 100)
     hours_old = st.number_input("Hours Old", 0, 100, 24)
     offset = st.number_input("Offset", 0, 1000, 0)
 
