@@ -73,6 +73,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Libraries Used In This Application 📚
 - Scraper: https://github.com/Bunsly/JobSpy
 - Pdf To Text: https://github.com/jsvine/pdfplumber
+- Streamlit: https://github.com/streamlit/streamlit
+- Numpy: https://github.com/numpy/numpy
 
 ## Contact 📧
 
