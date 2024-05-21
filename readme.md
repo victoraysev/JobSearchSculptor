@@ -1,4 +1,4 @@
-# JobSearchSculptor
+# Job Search Sculptor
 
 JobSearchSculptor is a Streamlit application designed to assist job seekers in efficiently managing their job applications by scraping and filtering job descriptions. It provides a readable interface for reviewing these descriptions, enabling users to select the right resume for each job. Additionally, it allows users to generate personalized cover letters using OpenAI's API and save them for further reference.
 
