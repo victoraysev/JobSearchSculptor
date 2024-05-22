@@ -56,7 +56,7 @@ class JobScraperApp:
 
 def scraper_tab():
     data = st.session_state.get("data", {})
-    if len(data) > 0:
+    if data is not None and len(data) > 0:
         app = JobScraperApp(data)
         app.show_jobs()
     else:
