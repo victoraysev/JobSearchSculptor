@@ -15,16 +15,16 @@ def setup_tab():
     offset = st.number_input("Offset", 0, 1000, 0)
 
     st.sidebar.subheader("Filters and Resume Selection (Optional)")
-    highlight_keywords_file = st.sidebar.file_uploader("Upload Highlight Keywords for Descriptions (Give one keyword per line)", type="txt")
-    exclude_keywords_file = st.sidebar.file_uploader("Upload Exclude Keywords for Descriptions (Give one keyword per line)", type="txt")
-    exclude_titles_file = st.sidebar.file_uploader("Upload Exclude Keywords for Titles (Give one keyword per line)", type="txt")
-    exclude_companies_file = st.sidebar.file_uploader("Upload Exclude Keywords for Companies (Give one keyword per line)", type="txt")
+    highlight_keywords_file = st.sidebar.file_uploader("Upload Highlight Keywords for Descriptions- (Give one keyword per line)", type="txt")
+    exclude_keywords_file = st.sidebar.file_uploader("Upload Excluded Keywords for Descriptions ----(Give one keyword per line)", type="txt")
+    exclude_titles_file = st.sidebar.file_uploader("Upload Excluded Keywords for Titles ------------(Give one keyword per line)", type="txt")
+    exclude_companies_file = st.sidebar.file_uploader("Upload Exclude Keywords for Companies -------(Give one keyword per line)", type="txt")
 
     resume_names = []
     resume_data = {}
     x = 1
     while True:
-        uploaded_file = st.sidebar.file_uploader("Choose your resume file", type=["pdf"], key=x)
+        uploaded_file = st.sidebar.file_uploader("Choose your resume file -------------------------------", type=["pdf"], key=x)
         x = x + 1
         if uploaded_file is not None:
             resume_names.append(uploaded_file.name)
