@@ -20,7 +20,7 @@ https://jobsearchsculptor.streamlit.app/
 To install JobSculptor, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/utkuaysev/JobSculptor.git
+git clone https://github.com/victoraysev/JobSculptor.git
 cd JobSculptor
 pip install -r requirements.txt
 ```
@@ -78,6 +78,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For questions or further assistance, please contact utkuaysev@gmail.com.
+For questions or further assistance, please contact victoraysev@gmail.com.
 
 ---
